@@ -1,0 +1,100 @@
+author,author_gender,date,recipient,recipient_gender,length,file_name
+Madame de Sévigné,woman,Na,Ménage,man,,Lettre_de_Sévigné_1
+Madame de Sévigné,woman,Na,Ménage,man,,Lettre_de_Sévigné_2
+Madame de Sévigné,woman,Na,Ménage,man,,Lettre_de_Sévigné_3
+Comte de Bussy Rabutin,man,21 octobre 1646,Madame de Sévigné,woman,,Lettre_de_Sévigné_5
+Abbé de Montreuil,man,Na,Madame de Sévigné,woman,,Lettre_de_Sévigné_6
+Madame de Sévigné,woman,15 mars 1648,Comte de Bussy Rabutin,man,,Lettre_de_Sévigné_7
+Comte de Bussy Rabutin,man,12 avril 1648,Madame de Sévigné,woman,,Lettre_de_Sévigné_8
+Comte de Bussy Rabutin,man,5 février 1649,Madame de Sévigné,woman,,Lettre_de_Sévigné_10
+Comte de Bussy Rabutin,man,5 mars 1649,Madame de Sévigné,woman,,Lettre_de_Sévigné_11
+Comte de Bussy Rabutin,man,6 mars 1649,Madame de Sévigné,woman,,Lettre_de_Sévigné_12
+Madame de Sévigné,woman,14 mars 1649,Lenet,man,,Lettre_de_Sévigné_13
+Madame de Sévigné,woman,20 mars 1649,Lenet,man,,Lettre_de_Sévigné_14
+Madame de Sévigné,woman,25 mars 1649,Lenet,man,,Lettre_de_Sévigné_15
+Comte de Bussy Rabutin,man,milieu 1650,Madame de Sévigné,woman,,Lettre_de_Sévigné_16
+Comte de Bussy Rabutin,man,2 juillet 1650,Madame de Sévigné,woman,,Lettre_de_Sévigné_17
+Madame de Sévigné,woman,Na,Ménage,man,,Lettre_de_Sévigné_18
+Scarron,man,1651,Madame de Sévigné,woman,,Lettre_de_Sévigné_19
+Madame de Sévigné,woman,12 janvier 1652,Ménage,man,,Lettre_de_Sévigné_20
+Madame de Sévigné,woman,25 juin 1670,M. de Grignan,man,,Lettre_de_Sévigné_109
+Madame de Sévigné,woman,6 juillet 1670,Comte de Bussy Rabutin,man,,Lettre_de_Sévigné_110
+Madame de Sévigné,woman,6 août 1670,M. de Grignan,man,,Lettre_de_Sévigné_112
+Madame de Sévigné,woman,15 août 1670,M. de Grignan,man,,Lettre_de_Sévigné_113
+Madame de Sévigné,woman,26 novembre 1670,M. de Grignan,man,,Lettre_de_Sévigné_116
+Madame de Sévigné,woman,28 novembre 1670,M. de Grignan,man,,Lettre_de_Sévigné_117
+Madame de Sévigné,woman,3 décembre 1670,M. de Grignan,man,,Lettre_de_Sévigné_118
+Madame de Sévigné,woman,10 décembre 1670,M. de Grignan,man,,Lettre_de_Sévigné_119
+Madame de Sévigné,woman,15 décembre 1670,Emmanuel de Coulanges,man,,Lettre_de_Sévigné_121
+Madame de Sévigné,woman,19 décembre 1670,Emmanuel de Coulanges,man,,Lettre_de_Sévigné_122
+Madame de Sévigné,woman,19 décembre 1670,Comte de Bussy Rabutin,man,,Lettre_de_Sévigné_123
+Georges Sand,woman,3 janvier 1854,Augustine de Bertholdi,woman,,Correspondance_1812-1876_4_1854_CCCLXX
+Georges Sand,woman,16 janvier 1854,Victor Borie,man,,Correspondance_1812-1876_4_1854_CCCLXXI
+Georges Sand,woman,31 janvier 1854,Maurice Sand,man,,Correspondance_1812-1876_4_1854_CCCLXXII
+Georges Sand,woman,31 janvier 1854,Maurice Sand,man,,Correspondance_1812-1876_4_1854_CCCLXXIII
+Georges Sand,woman,11 mars 1854,Maurice Sand,man,,Correspondance_1812-1876_4_1854_CCCLXXIV
+Georges Sand,woman,3 juin 1854,Armand Barbès,man,,Correspondance_1812-1876_4_1854_CCCLXXV
+Georges Sand,woman,16 juillet 1854,S. A. le prince Napoléon (Jérôme),man,,Correspondance_1812-1876_4_1854_CCCLXXVI
+Georges Sand,woman,16 juillet 1854,Charles Poncy,man,,Correspondance_1812-1876_4_1854_CCCLXXVII
+Georges Sand,woman,31 juillet 1854,Victor Borie,man,,Correspondance_1812-1876_4_1854_CCCLXXVIII
+Georges Sand,woman,11 août 1854,Charles Poncy,man,,Correspondance_1812-1876_4_1854_CCCLXXIX
+Georges Sand,woman,5 octobre 1854,Armand Barbès,man,,Correspondance_1812-1876_4_1854_CCCLXXX
+Georges Sand,woman,28 octobre 1854,Armand Barbès,man,,Correspondance_1812-1876_4_1854_CCCLXXXI
+Georges Sand,woman,27 novembre 1854,Armand Barbès,man,,Correspondance_1812-1876_4_1854_CCCLXXXII
+Georges Sand,woman,7 janvier 1855,Charles Jacque,man,,Correspondance_1812-1876_4_1855_CCCLXXXIII
+Georges Sand,woman,7 février 1855,Charles-Edmond,man,,Correspondance_1812-1876_4_1855_CCCLXXXIV
+Georges Sand,woman,14 février 1855,Édouard Charton,man,,Correspondance_1812-1876_4_1855_CCCLXXXV
+Georges Sand,woman,14 février 1855,Augustine de Bertholdi,woman,,Correspondance_1812-1876_4_1855_CCCLXXXVI
+Georges Sand,woman,24 février 1855,Maurice Sand,man,,Correspondance_1812-1876_4_1855_CCCLXXXVII
+Georges Sand,woman,27 février 1855,Leroyer de Chantepie,woman,,Correspondance_1812-1876_4_1855_CCCLXXXVIII
+Georges Sand,woman,mars 1855,Eugène Lambert,man,,Correspondance_1812-1876_4_1855_CCCLXXXIX
+Madame de Vin Timille,woman,29 septembre 1739,Madame du Deffand,woman,,correspondance_du_deffand_1
+Madame de Vin Timille,woman,7 octobre 1739,Madame du Deffand,woman,,correspondance_du_deffand_2
+Madame du Deffand,woman,19 avril 1766,Horace Walpole,man,,correspondance_du_deffand_3
+Madame du Deffand,woman,21 avril 1766,Horace Walpole,man,,correspondance_du_deffand_4
+Madame du Deffand,woman,5 mai1766,Horace Walpole,man,,correspondance_du_deffand_5
+Madame du Deffand,woman,Na,Voltaire,man,,correspondance_du_deffand_6
+Madame Roland,woman,15 janvier 1786,Albert Gosse,man,,correspondance_roland_1
+Madame Roland,woman,24 janvier 1786,Bosc,man,,correspondance_roland_2
+Madame Roland,woman,20 février 1786,Bosc,man,,correspondance_roland_3
+Madame Roland,woman,23 février 1786,Bosc,man,,correspondance_roland_4
+Gustave Flaubert,man,29 septembre 1840,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0043
+Gustave Flaubert,man,6 octobre 1840,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0044
+Gustave Flaubert,man,14 novembre 1840,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0045
+Gustave Flaubert,man,14 janvier 1841,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0046
+Gustave Flaubert,man,22 janvier 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0054
+Gustave Flaubert,man,22 janvier 1842,Gourgaud-Dugazon,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0055
+Gustave Flaubert,man,23 Février 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0056
+Gustave Flaubert,man,15 mars 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0057
+Gustave Flaubert,man,10 avril 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0058
+Gustave Flaubert,man,21 mai 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0059
+Gustave Flaubert,man,25 juin 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0060
+Gustave Flaubert,man,3 juillet 1842,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0061
+Gustave Flaubert,man,22 juillet 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0062
+Gustave Flaubert,man,26 juillet 1842,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0063
+Gustave Flaubert,man,1 août 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0064
+Gustave Flaubert,man,5 août 1842,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0065
+Gustave Flaubert,man,6 septembre 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0066
+Gustave Flaubert,man,21 octobre 1842,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0067
+Gustave Flaubert,man,12 novembre 1842,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0068
+Gustave Flaubert,man,16 novembre 1842,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0069
+Gustave Flaubert,man,novembre 1842,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0070
+Gustave Flaubert,man,décembre 1842,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0071
+Gustave Flaubert,man,décembre 1842,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0072
+Gustave Flaubert,man,janvier 1843,Caroline Flaubert,woman,,Correspondance_de_Gustave_Flaubert_Tome_1_0073
+Gustave Flaubert,man,10 février 1843,Ernest Chevalier,man,,Correspondance_de_Gustave_Flaubert_Tome_1_0074
+Victor Hugo,man,16 janvier 1833,Mayer,man,,correspondance_hugo_1
+Victor Hugo,man,18 janvier 1833,Sainte-Beuve,woman,,correspondance_hugo_2
+Victor Hugo,man,15 février 1833,Louise Bertin,woman,,correspondance_hugo_3
+Victor Hugo,man,24 février 1833,Sainte-Beuve,woman,,correspondance_hugo_4
+Victor Hugo,man,25 février 1833,Sainte-Beuve,woman,,correspondance_hugo_5
+Victor Hugo,man,27 février 1833,roi Joseph,man,,correspondance_hugo_6
+Victor Hugo,man,10 mars 1833,Sainte-Beuve,woman,,correspondance_hugo_7
+Victor Hugo,man,21 mars 1833,Jouslin de la Salle,man,,correspondance_hugo_8
+Victor Hugo,man,31 mars 1833,Victor Pavie,man,,correspondance_hugo_9
+Victor Hugo,man,1 mai 1833,Harel,man,,correspondance_hugo_10
+Voltaire,man,6 janvier 1736,Abbé d'Olivet,man,,correspondance_voltaire_1
+Voltaire,man,1736,Thieriot,man,,correspondance_voltaire_2
+Voltaire,man,08 janvier 1736,De Cideville,man,,correspondance_voltaire_3
+Voltaire,man,10 janvier 1736,Berger,man,,correspondance_voltaire_4
+Voltaire,man,13 janvier 1736,Thieriot,man,,correspondance_voltaire_5
